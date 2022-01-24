@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>algorithm1.PNG</file>
+        <file>algorithm2.PNG</file>
+    </qresource>
+</RCC>
